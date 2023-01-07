@@ -1,16 +1,13 @@
-### Hi there 👋
+# Nice to meet you! 👋
 
-<!--
-**purplecomet1/purplecomet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sal Haider, a web developer based in the USA. 
 
-Here are some ideas to get you started:
+Feel free to reach me on my socials 👇 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sal-haider/)<br>
+
+
+----
+# Tools I Use 🔧
+[![React, NextJS Javascript, Typescript, HTML, CSS, Tailwinds, CSharp, Java, Python](https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind,cs,java,py)](https://skillicons.dev)
+
