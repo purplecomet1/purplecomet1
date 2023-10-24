@@ -9,5 +9,5 @@ Feel free to reach me on my socials 👇
 
 ----
 # Tools I Use 🔧
-[![React, Typescript, NodeJS, SQL, NextJS Javascript, HTML, CSS, Tailwinds, Solidity, CSharp, Java, Python](https://skillicons.dev/icons?i=react,next,js,ts,nodejs,html,css,tailwind,solidity,cs,java,py)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,next,js,ts,nodejs,mysql,html,css,tailwind,solidity,cs,java,py)](https://skillicons.dev)
 
